@@ -1,3 +1,3 @@
 #!/bin/bash
-service start docker
-service enable docker
+service start nginx
+service enable nginx
